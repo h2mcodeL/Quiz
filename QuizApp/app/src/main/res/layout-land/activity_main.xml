@@ -69,13 +69,14 @@
                     android:layout_height="wrap_content"
                     android:hint="The Capital questions"
                     />
-
+                
                 <EditText
                     android:id="@+id/answer1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:hint="Enter answer here!"
-                    android:imeOptions="flagNoExtractUi"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
                     />
 
                 <LinearLayout
