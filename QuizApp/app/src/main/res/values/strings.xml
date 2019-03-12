@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!-- text for the quiz questions -->
+    <string name="question1">Question 1: What is the capital of England: </string>
+    <string name="question1_ans">london</string>
+
+    <string name="question2">Question 2: The population of London is closest to: </string>
+    <string name="question2_ans"> 9,900,000</string>
+
+    <!-- Population range for question 2 -->
+    <string name="population1"> 9,900,000</string>
+    <string name="population2"> 15,000,000</string>
+    <string name="population3"> 25,000,000</string>
+
+    <string name="question3">Question 3: Which flag belongs to countries in the UK: </string>
+
+    <string name="question4">Question 4: Choose which one is a popular British dish:</string>
+    <string name="question4_ans">Fish n Chips</string>
+
+    <!-- Answer options for question 2 -->
+    <string name="dish1"> Hamburger</string>
+    <string name="dish2"> Fish n Chips</string>
+    <string name="dish3"> Thai Curry</string>
+
+    <string name="question5">Question 5: The average summertime temperature in Scotland is:</string>
+    <string name="question5_ans">15 deg</string>
+
+    <!-- The average temperature in Scotland options for Radio buttons -->
+    <string name="temp1">15 deg</string>
+    <string name="temp2">20 deg</string>
+    <string name="temp3">23 deg</string>
+
+    <string name="question6">Question 6: What is the name of the stretch of water between France and the south-east of England: </string>
+    <string name="question6_ans">The Channel</string>
+
+    <string name="question7">Question 7: What is the name of the tallest mountain in Wales: </string>
+    <string name="question7_ans">Snowdon</string>
+
+    <string name="question8">Question 8: Which Uk football team has won the most Premiership titles: </string>
+    <string name="question8_ans">Manchester</string>
+
+    <!-- The main score title -->
+    <string name="scorelayout">Score</string>
+
+    <!-- Generic button text -->
+    <string name="check">Check</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+</resources>
